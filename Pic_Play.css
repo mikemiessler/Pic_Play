@@ -34,7 +34,13 @@ body {
     background: url("https://images.unsplash.com/photo-1454321717968-d243ade71663?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=eab87789ba6f0267ff633d16485477b1&auto=format&fit=crop&w=1502&q=80");
     background-size: cover;
     background-position: center;
-    
-
-
+   
 }
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+    margin-bottom: 5px;
+}   
