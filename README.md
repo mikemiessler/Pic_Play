@@ -1,1 +1,3 @@
 # Pic_Play
+
+This is a basic web app project.  Pic_Play allows fans to share their concert photos with the bands they love. More functionality coming as I progress...
